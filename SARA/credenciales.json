@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sara-alarma-iot",
+  "private_key_id": "f8f94aff660cb4ae892200b42ae7594dbaf5d7a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqfNDXR4Efu9rN\nAoONxcSYJ+9USRaVRNvV1YGkmSXqKFvsRO9AjJBtXXOCfwrwdXAi6vdcxy7xf8FM\nNIKlV7AfXIdDDJs0Fn5TkA+ecJNl3vcCnhZ8zAsirY2wdfVk2663eqleCtDFLP/x\noBpo8v7dexu8cAAQl7geXclUVDb8HfkRcuTtg9M9FiIhHjgjK4RcjfUtJZhCGMTT\nf37GMF4gk8nX9bPYxhrm4c1Yg6Pe/K3XWhPtFFWbzM4EHteMOmPA+Ja9A3NLtto7\nFR2tTPcMVoe6AbD1eQJSWYochaxHaOg/KtjwRZN5WbXzZg6f5TCkjc5/QQ1ECRiK\nJ6qIT3yhAgMBAAECggEACSPMQKlRwOM13IEkrzlds/RKoGmzbSzSDgd+ZfYLpj80\nB+Ftc+gBP2q31ER2MDxUhtuyx5GaWLozEUA8q4ttGs5PplKfALKuwrE1xCZIAalr\nk8NoxFeeRnV4U9AsF+RO3GFmIm95ICP8o+4T0mHqE9K7cr2MpFcU6ORZZHToFnmY\nigcD2AnKg1cseZAdkVSS5HN19nS+FCWCxPb4UMxWKlwzjAqmnYNOyeoTbQApTsuJ\nG0U3nh8ny22ZJsYYjdRyLQrm8ucuzk0csqfXvaYPgAY7GqKZFah8tkm9tUDtj8c/\nPs0T1J5FfLwQSKI0yNH2lJ7lZvc1Kipl3Pm7aOq5MQKBgQDuXsLpUW5hkxVrjraT\nVYCjXqVpUBobzqdBZe0jMx49fasCgCTZrhziAZlKPUiGgfbZ8YKgIqGpeudp2I8W\nr40uj55fQybXHgP5A/775oy4GMm8Wvu0eO018sUJ+xl548ZrZePTjZdr/dHHYUbC\nIlsB3LTp3xAZqt1RZKkOD/G7cQKBgQC3GMhtvvKyvnfgQ6RxbNhJyjotcrH/o9Tn\noVd7az1yf1Wf7dztTKvCdEFOR5NPrbPnphS9BC02bPtoiss3uIgst/5CcBonsumD\nc+WZVz+Zi8DYg7fPl+DQ92l5oelQ9ogWNVuBExaPM+cgUT9cJ28YEGODczjcgowI\nVO0TU45cMQKBgG7SRaH9xui8XhgMWJu1A8JwbUzB/fFxqVcBUTetO2DxPQFDnF5L\n0YfNoHvgdAh9AcwfuVBD6Y8G4fHWyeeNJIFCKio16SfX/5bVIcXxUPkCJUBZuG4W\nTopnXO4f/J8ro4Mo8rvXN0/wyIf+lMwK9u6tsrqMh0q3on+F4gb0qLkxAoGAG/Ud\nzZwlhOOOfGD3wBYFpKbLYVstEMLcZI3/RKooVM5arbPtUxKs+2EzA5fsR3NXkByM\n+BumJ7RWYy0mQJjdui5SFaT2aW9pNphAy7xFytVLGgRq0bj4LBBLO7ZcYO9z8igt\nk7TtcepT9VxSl2iyDvOZrl2upgUNCsyk8pmEmFECgYEAtQp+QdBwAzMks7Epown5\nuIgvry0Wrnb9WtM3xjAKrVNOMqzJiJlOsH0DbK4HeEAYbFkson/fi3PaFk9tr5hL\nIhrj7LQ8eZ2b4K+UBnl7dMa9jQZxUsOAh7BOeJyvlPzy/lUvHkzmoL0sBqO/4LQh\ndU3U+WL83uLTQuiXD7Bl3jw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6aefa@sara-alarma-iot.iam.gserviceaccount.com",
+  "client_id": "110021721961791810667",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6aefa%40sara-alarma-iot.iam.gserviceaccount.com"
+}
